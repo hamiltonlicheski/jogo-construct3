@@ -10,7 +10,7 @@ Projeto desenvolvido para a disciplina **Experiência Criativa: Explorando Compu
 
 ## Status do projeto
 
-Em desenvolvimento. O esqueleto principal do jogo já está funcional de ponta a ponta (geração de mapa, movimento, combate, sala de chefe), mas os sprites finais, o hub e o tutorial ainda estão em produção.
+Em desenvolvimento. O esqueleto principal do jogo já está funcional de ponta a ponta (geração de mapa, movimento, combate, sala de chefe), mas os sprites finais, e outras mecânicas estão em produção.
 
 ## Sobre o jogo
 
@@ -31,13 +31,6 @@ O protótipo atual se passa na Ilha dos Lestrigões.
 - **Combate e movimento**: Odisseu se move em 8 direções (WASD e setas), dá um golpe em arco na direção que encara, tem dash com recarga, perde vida ao encostar em inimigos (com breve invulnerabilidade após o dano) e coleta moedas que os inimigos derrubam ao morrer.
 - **Salas ao estilo Isaac**: a câmera é travada por sala, então cada ambiente preenche a tela exatamente, e a transição acontece ao cruzar uma porta. Ao entrar numa sala com inimigos, todas as portas trancam — inclusive a de trás, sem fuga — e só reabrem quando a sala é limpa.
 - **Chefe**: o jogo calcula automaticamente qual das salas geradas é a mais distante da entrada e posiciona o Lestrigão lá, com mais vida e dano que os inimigos comuns.
-
-## O que falta
-
-- Tutorial na sala inicial.
-- Hub do barco.
-- Substituição dos placeholders geométricos pelos sprites finais (em produção pela equipe).
-- "Telegraph" do chefe (aviso visual antes do ataque, como em Hades) — adiado de propósito até os sprites finais estarem prontos.
 
 ## Escopo e próximos passos
 
