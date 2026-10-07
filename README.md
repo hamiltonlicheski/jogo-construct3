@@ -2,7 +2,7 @@
 
 Roguelike de ação em pixel art ambientado na mitologia grega, desenvolvido na engine Construct 3.
 
-Jogável em: https://hamiltonlicheski.github.io/jogo-construct3-/
+Jogável em: https://hamiltonlicheski.github.io/jogo-construct3/
 
 ## Sobre o contexto do projeto
 
